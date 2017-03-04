@@ -26,9 +26,7 @@ int main()
         printf("%d ", arr[i]);
     }
     printf("\n");
+    printf("Min element: %d\n", min);
 
-        printf("Min element: %d\n", min);
-
-        return 0;
-    }
+    return 0;
 }
